@@ -8,12 +8,19 @@
     font-size: 36px;
 }
 
+/* First resolution - editing the code for best practices
+
 #third-element{
+    font-size: 24px;
+}
+*/
+
+.font-resize{
     font-size: 24px;
 }
 
 #fourth-element{
     background-color: rgb(121, 230, 121);
-    font-size: 24px;
+/*    font-size: 24px; */
     font-weight: 700;
 }
